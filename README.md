@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Blind Assistance System** is an assistive navigation tool designed to help visually impaired individuals navigate their surroundings safely and independently. Leveraging advanced computer vision techniques, the system provides real-time object detection and distance estimation with high accuracy. Built using Python, Midas, and TensorFlow, this project aims to empower users by offering a reliable and intuitive way to perceive their environment.
+The **Blind Assistance System** is an assistive navigation tool designed to help visually impaired individuals navigate their surroundings safely and independently. Leveraging advanced computer vision techniques, the system provides real-time object detection and distance estimation with high accuracy. Built using Python, Midas, and TensorFlow, this project aims to empower users by offering a reliable and intuitive way to perceive their environment.This module is designed to enhance vision for visually impaired individuals. It operates through a dedicated application that captures real-time frames and transmits them to a laptop-based wireless networked system. Utilizing real-time object detection with the SSD_MobileNet algorithm and TensorFlow APIs, the system identifies objects in the environment. A key feature is its ability to estimate object distances and provide voice-based wireless feedback accordingly. This feedback alerts the user if an object is too close or at a safe distance, improving navigation efficiency and reliability. Additionally, the system can be used for obstacle detection.
 
 ## Key Features
 

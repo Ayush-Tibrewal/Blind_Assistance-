@@ -1,4 +1,6 @@
 # Blind Assistance System
+<img width="691" height="392" alt="image" src="https://github.com/user-attachments/assets/de924ca2-1d3e-4f08-8ff2-fa6f79fefb73" />
+
 
 
 ## Key Features
